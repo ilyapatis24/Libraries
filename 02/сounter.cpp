@@ -1,5 +1,4 @@
-#include "ñounter.h"
-
+#include "counter.h"
 
 Counter::Counter() {
 	counter_var = 0;

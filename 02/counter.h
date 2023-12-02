@@ -1,4 +1,4 @@
-﻿#pragma once
+﻿﻿#pragma once
 
 class Counter {
 public:
@@ -14,3 +14,4 @@ public:
 private:
 	int counter_var;
 };
+
