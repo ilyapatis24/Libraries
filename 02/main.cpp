@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "сounter.h"
+#include "counter.h"
 #include <string>
 
 using namespace std;

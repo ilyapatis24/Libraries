@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
-    <ProjectGuid>{4349BA17-854C-469F-8542-743AD8CB42C1}</ProjectGuid>
+    <ProjectGuid>{EEEE52A2-1A13-43F7-AE09-51BA2C0DA210}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -119,11 +119,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="сounter.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="сounter.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="сounter.h" />
+    <ClInclude Include="counter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

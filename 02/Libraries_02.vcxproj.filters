@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="сounter.h">
+    <ClInclude Include="counter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
